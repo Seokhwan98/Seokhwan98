@@ -42,12 +42,14 @@
 
   <br/>
   <br/>
+  <br/>
 
 
   ## ⭐ Interest  
   🎮 Game Development & Design  <br/>
   🧠 User-centered Feature Planning  <br/>
   🖱️  UI/UX-focused Interaction Improvement <br/>
+  <br/>
   <br/>
   
   ## 🤔 Github Stats
