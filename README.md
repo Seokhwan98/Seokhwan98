@@ -14,7 +14,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Client Programmer from South Korea.<br/>
   #### :fire: I aim to become a Client Programmer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :mortar_board: Department of Computer Science and Engineering at POSTECH (POSTECH CSE)
   <br/>
   <br/>
   
