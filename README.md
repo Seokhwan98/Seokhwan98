@@ -12,7 +12,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Client Programmer from South Korea.<br/>
+  #### :🎮 Unity-based game developer <br/>
+  #### :🧠 Passionate about system design, gameplay logic, and clean architecture <br/>
   #### :fire: I aim to become a Client Programmer.<br/>
   #### :mortar_board: Department of Computer Science and Engineering at POSTECH
   <br/>
@@ -27,6 +28,14 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
   <!--C++-->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <br/>
+  <br/>
+
+
+  ## ⭐ Interest  
+  🎮 Game Development & Design  <br/>
+  🧠 User-centered Feature Planning  <br/>
+  🖱️ UI/UX-focused Interaction Improvement <br/>
   <br/>
   
   ## 🤔 Github Stats
