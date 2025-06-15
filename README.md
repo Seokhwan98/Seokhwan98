@@ -12,8 +12,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :raising_hand: I am a Client Programmer from South Korea.<br/>
+  #### :fire: I aim to become a Client Programmer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
