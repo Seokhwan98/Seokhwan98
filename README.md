@@ -10,15 +10,14 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :🎮 Unity-based game developer <br/>
-  #### :🧠 Passionate about system design, gameplay logic, and clean architecture <br/>
+  #### 🎮 Unity-based game developer <br/>
+  #### 🧠 Passionate about system design, gameplay logic, and clean architecture <br/>
   #### :fire: I aim to become a Client Programmer.<br/>
   #### :mortar_board: Department of Computer Science and Engineering at POSTECH
   <br/>
   <br/>
   
- ## 🧱 Tech Stack
-
+  ## 🧱 Tech Stack
   ### 🎮 Game Development
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
@@ -33,7 +32,7 @@
   ## ⭐ Interest  
   🎮 Game Development & Design  <br/>
   🧠 User-centered Feature Planning  <br/>
-  🖱️ UI/UX-focused Interaction Improvement <br/>
+  🖱️  UI/UX-focused Interaction Improvement <br/>
   <br/>
   
   ## 🤔 Github Stats
