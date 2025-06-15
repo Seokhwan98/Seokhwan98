@@ -2,10 +2,8 @@
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Seokhwan's%20Github!%20%F0%9F%A4%97&fontSize=40)
-  <p align='center'>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/orion3860@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </p>
 </div>
 
 <div>
