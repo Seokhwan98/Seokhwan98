@@ -52,8 +52,10 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan98)](https://github.com/anuraghazra/github-readme-stats)
+  ## 🤔 Github & Solved Stats
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokhwan98)](https://solved.ac/seokhwan98/)
+  <br/>
+  [![Seokhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan98)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokhwan98)](https://github.com/anuraghazra/github-readme-stats)
   
